@@ -1,0 +1,12 @@
+.buyBtn{
+    background-color: orange !important;
+    color: white !important; 
+    width: 100% !important;
+    display: none;
+}
+
+.card:hover{
+    .buyBtn{
+        display: block;
+    }
+}
