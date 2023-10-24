@@ -1,0 +1,7 @@
+FAMOUS SORTING
+
+Step 1 :  Create a variable to hold the arry.
+Step 2 :  Go through the arry items.
+Step 3 :  Pick ths smallest item in the arry and compare it with the item on the index 0.
+Step 4 :  If the item in the index 0 is greater than the smallest item, place the smaller itemin the index 0.
+Step 5 : Repeat the process until all items are sorted.
