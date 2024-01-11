@@ -1,0 +1,24 @@
+.profile {
+    border: 2px solid orange;
+    border-radius: 5px;
+    margin: 12px;
+}
+
+.profile h2 {
+    color: orange;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.profile img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.signup:hover {
+    background-color: orange !important;
+    color: #000 !important;
+}
