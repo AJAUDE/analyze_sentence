@@ -1,4 +1,3 @@
-import { link } from "react-router-dom";
 
 const MovieCard = ({ imgUrl, title, year, rating, link, id }) => {
     const style = {
